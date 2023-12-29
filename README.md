@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=""C:\Users\palma\Downloads\artwork (2).png")
+  <img src="C:\Users\palma\Downloads\artwork (2).png")
 " alt="Who I am">
 </p>
 
