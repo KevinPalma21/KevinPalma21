@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on enhancing my skills programming microcontrollers
 - 🌱 I’m currently learning more about machine learning
 - 👯 I’m looking to collaborate on different cool projects
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a Culé (Barca Fan) and into Calisthenics
 
     </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical" /></td>
