@@ -1,4 +1,5 @@
-![artwork (2)](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/dad590c9-aab9-4dcc-8f5c-4cb2112e0ba8)
+![artwork (3)](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/a7428c10-9fd0-4412-86a8-2af6243e1c78)
+
 
 
 
