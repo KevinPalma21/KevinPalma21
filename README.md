@@ -2,6 +2,7 @@
   <img src="https://github.com/KevinPalma21/KevinPalma21/assets/123513375/8ee43f62-3de4-4c2b-a37f-f974a7b55db9" alt="Artwork">
 </div>  
 
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <p align="center">
