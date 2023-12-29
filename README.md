@@ -3,8 +3,9 @@
 </div>  
 
 
+
 <p align="center">
-   I'm a third-year EE student at UIC with a keen interest in coding and bringing ideas to life through microcontrollers and programmable devices. My passion lies in exploring the fascinating things I can create and program, blending my academic knowledge with practical applications. Always excited to engage in projects that push the boundaries of what's possible in Electrical engineering!  
+   I'm a third-year EE student at UIC with a keen interest in coding and bringing ideas to life through microcontrollers and programmable devices. My passion lies in exploring the fascinating things I can create and program, blending my academic knowledge with practical applications. Always excited to engage in projects that push the boundaries of what's possible in Electrical engineering!
 </p>
 
 ---
