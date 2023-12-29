@@ -1,8 +1,5 @@
 ### Hi there 
-👋![Leonardo_Diffusion_S_Cool_Pixel_Art_for_a_nice_background_pic_0](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/47944201-3bc2-4b21-9ca2-daa61a812b81)
-
-<!--
-**KevinPalma21/KevinPalma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋
 
 Here are some ideas to get you started:
 
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
