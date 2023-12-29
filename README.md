@@ -12,7 +12,6 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical" /></td>
     <td>
 
 <!-- Insert your text here -->
@@ -22,6 +21,8 @@
 - ⚡ Fun fact: ...
 
     </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical" /></td>
   </tr>
 </table>
+
 
