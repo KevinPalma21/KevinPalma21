@@ -1,5 +1,6 @@
-### Hi there the name is Kevin Palma
-![artwork (1)](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/307433a0-3bb9-4fa7-9652-c671779349d1)
+![artwork (2)](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/5ddf98ad-04c5-4950-91aa-fabc16a1f9a0)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
