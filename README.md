@@ -1,7 +1,5 @@
-### Hi there 
-👋
-
-Here are some ideas to get you started:
+### Hi there the name is Kevin Palma
+![artwork (1)](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/307433a0-3bb9-4fa7-9652-c671779349d1)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
