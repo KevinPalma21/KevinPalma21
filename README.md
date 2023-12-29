@@ -9,12 +9,6 @@
 
 ---
 
-Your next section of text goes here.
-
----
-
-Another section of text here.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,3 +18,6 @@ Another section of text here.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+---
