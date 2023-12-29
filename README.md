@@ -23,5 +23,5 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=merko)
 
