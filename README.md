@@ -10,18 +10,18 @@
 
 ---
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical" /></td>
+    <td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<!-- Insert your text here -->
+- 🔭 I’m currently working on enhancing my skills programming microcontrollers
+- 🌱 I’m currently learning more about machine learning
+- 👯 I’m looking to collaborate on different cool projects
 - ⚡ Fun fact: ...
 
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical)
+    </td>
+  </tr>
+</table>
 
