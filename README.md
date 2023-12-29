@@ -1,4 +1,5 @@
-### Hi there 👋![Leonardo_Diffusion_XL_Cool_Pixel_Art_for_a_nice_background_pic_0](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/47944201-3bc2-4b21-9ca2-daa61a812b81)
+### Hi there 
+👋![Leonardo_Diffusion_XL_Cool_Pixel_Art_for_a_nice_background_pic_0](https://github.com/KevinPalma21/KevinPalma21/assets/123513375/47944201-3bc2-4b21-9ca2-daa61a812b81)
 
 
 <!--
