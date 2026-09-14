@@ -14,7 +14,7 @@ I’m an Electrical Engineer with a Master’s from UIC and a strong focus on AI
   <tr>
     <td>
 
-<!-- Insert your text here -->
+
 - 🔭 I’m currently working on enhancing my skills programming microcontrollers
 - 🌱 I’m currently learning more about machine learning
 - 👯 I’m looking to collaborate on different cool projects
