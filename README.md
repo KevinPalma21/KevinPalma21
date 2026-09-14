@@ -5,7 +5,7 @@
 &nbsp;
 
 <p align="center">
-   I'm a fourth Year EE student at UIC with a keen interest in coding and bringing ideas to life through microcontrollers and programmable devices. My passion lies in exploring the fascinating things I can create and program, blending my academic knowledge with practical applications. Always excited to engage in projects that push the boundaries of what's possible in Electrical engineering!
+I’m an Electrical Engineer with a Master’s from UIC and a strong focus on AI, machine learning, and software development. I enjoy building intelligent systems, training models, and combining my engineering background with AI to solve real-world problems. I’m always looking to keep learning, take on new challenges, and work on technology that has a real impact.
 </p>
 
 ---
