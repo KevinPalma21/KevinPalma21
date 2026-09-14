@@ -20,9 +20,6 @@ I’m an Electrical Engineer with a Master’s from UIC and a strong focus on AI
 - 👯 I’m looking to collaborate on different cool projects
 - ⚡ Fun fact: I am a Culé (Barca Fan) and into Calisthenics
 
-    </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalma21&theme=radical" /></td>
-  </tr>
 </table>
 
 
